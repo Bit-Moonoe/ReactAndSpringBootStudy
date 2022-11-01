@@ -1,0 +1,7 @@
+server.port = 8015
+#spring.devtools.restart.enabled = true
+#spring.mustache.cache=false
+spring:
+	h2:
+		console:
+			enabled: true

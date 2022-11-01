@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=demo/C:\/Users\/문형기\/.gradle\/caches\/modules-2\/files-2.1\/org.springframework.data\/spring-data-jpa\/2.7.3\/e6f61621f80030ba56195cf6664aa8c1d902e082\/spring-data-jpa-2.7.3.jar=/gradle_used_by_scope=/main,test=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1663904671977"/>
+    <typeInfo handle="=demo/C:\/Users\/문형기\/.gradle\/caches\/modules-2\/files-2.1\/org.springframework.security\/spring-security-config\/5.7.3\/1b3af187763c2c343d87ec5e31c4e84bfb4c363e\/spring-security-config-5.7.3.jar=/gradle_used_by_scope=/main,test=/&lt;org.springframework.security.config.annotation.web.configuration(WebSecurityConfigurerAdapter.class[WebSecurityConfigurerAdapter" modifiers="1049633" timestamp="1667123792405"/>
+</typeInfoHistroy>
